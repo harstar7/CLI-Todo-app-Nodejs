@@ -11,6 +11,12 @@ A simple command-line to-do list manager written in Node.js.
 ## Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/cli-todo-app.git
-   Install dependencies (Node.js required): npm install
-   run the app: node app.js
+   git clone https://github.com/your-username/CLI-Todo-app-Nodejs.git
+   ```
+2. Install dependencies (Node.js required):
+   ```
+   npm install
+   ```
+3. Run the script
+   ```
+   node app.js 
